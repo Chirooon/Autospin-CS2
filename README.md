@@ -51,5 +51,4 @@ This script is **free**! You can change it, share it, and have fun!
 
 ### Questions? ❓
 
-Ask for help or share your ideas with others! 😊
 [![Discord](https://img.shields.io/badge/Add_me_on-Discord-blue.svg)](https://discord.com/users/792468382083448853)
